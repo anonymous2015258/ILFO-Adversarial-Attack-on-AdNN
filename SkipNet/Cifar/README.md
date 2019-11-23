@@ -1,7 +1,7 @@
 
 # Data Preparation and Models
 
-We have used pretrained SkipNet with ResNet 110. For data preparation, we followed [this](https://github.com/ucbdrive/skipnet/tree/master/cifar)
+We have used pretrained SkipNet with ResNet 110. For data preparation, we followed [this](https://github.com/ucbdrive/skipnet/tree/master/cifar).
 
 # How to Run
 ```
