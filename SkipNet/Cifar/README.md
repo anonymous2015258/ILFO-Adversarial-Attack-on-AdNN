@@ -10,4 +10,4 @@ We have used pretrained SkipNet SP model with ResNet 110. For data preparation a
 ```
 # Output
 
-Create a folder output. Input/Output images will be saved there as img_{batch no}_{img no}_{orig/ILFO}_{inc_in_FLOPs}.png.
+Create a folder output. Input/Output images will be saved there as img_{batch no}_{image number}_{orig/ILFO}_{inc_in_FLOPs}.png.
